@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7C704EC521EB1EF900B7F9D8 /* EmployeeTypeTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C704EC421EB1EF900B7F9D8 /* EmployeeTypeTableViewController.swift */; };
 		A93AF3B91E4FB44E0099CF76 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A93AF3B81E4FB44E0099CF76 /* AppDelegate.swift */; };
 		A93AF3BE1E4FB44E0099CF76 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A93AF3BC1E4FB44E0099CF76 /* Main.storyboard */; };
 		A93AF3C01E4FB44E0099CF76 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A93AF3BF1E4FB44E0099CF76 /* Assets.xcassets */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7C704EC421EB1EF900B7F9D8 /* EmployeeTypeTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmployeeTypeTableViewController.swift; sourceTree = "<group>"; };
 		A93AF3B51E4FB44E0099CF76 /* EmployeeRoster.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EmployeeRoster.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A93AF3B81E4FB44E0099CF76 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A93AF3BD1E4FB44E0099CF76 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 			children = (
 				A93AF3B81E4FB44E0099CF76 /* AppDelegate.swift */,
 				A93AF3BC1E4FB44E0099CF76 /* Main.storyboard */,
+				7C704EC421EB1EF900B7F9D8 /* EmployeeTypeTableViewController.swift */,
 				A93AF3CA1E4FB5240099CF76 /* EmployeeListTableViewController.swift */,
 				A93AF3CC1E4FB5320099CF76 /* EmployeeDetailTableViewController.swift */,
 				A93AF3CE1E4FB5410099CF76 /* Employee.swift */,
@@ -146,6 +149,7 @@
 				A93AF3CD1E4FB5320099CF76 /* EmployeeDetailTableViewController.swift in Sources */,
 				A93AF3B91E4FB44E0099CF76 /* AppDelegate.swift in Sources */,
 				A93AF3CF1E4FB5410099CF76 /* Employee.swift in Sources */,
+				7C704EC521EB1EF900B7F9D8 /* EmployeeTypeTableViewController.swift in Sources */,
 				A93AF3CB1E4FB5240099CF76 /* EmployeeListTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
